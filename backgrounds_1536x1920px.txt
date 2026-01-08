@@ -1,17 +1,15 @@
 # Daftar background masjid - update kapan saja!
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/610899043_1376802190571160_5795085002367855528_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/611003763_1375384920712887_4573538456963253526_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/610950068_1377485990502780_8007570725208754304_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/608168716_1374806164104096_843824797061908968_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/605775806_1374069364177776_437161416949141382_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/606043373_1372330797684966_1393603688406964241_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/599950495_1364268245157888_451058303593053869_n_1536x1920.jpg
-#
-https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/605283870_1372882877629758_5931323121780488206_n_1536x1920.jpg
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/611003763_1375384920712887_4573538456963253526_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/610950068_1377485990502780_8007570725208754304_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/610899043_1376802190571160_5795085002367855528_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/608168716_1374806164104096_843824797061908968_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/605775806_1374069364177776_437161416949141382_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/599950495_1364268245157888_451058303593053869_n_1536x1920.jpg
+
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/assset_background_1536x1920px/605283870_1372882877629758_5931323121780488206_n_1536x1920.jpg
 # Bisa tambah lebih banyak...
