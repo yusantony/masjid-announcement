@@ -1,0 +1,4 @@
+# Daftar background masjid - update kapan saja!
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/asset_background_1920x1080px/1.png
+https://raw.githubusercontent.com/yusantony/masjid-announcement/refs/heads/main/asset_background_1920x1080px/2.png
+# Bisa tambah lebih banyak...
